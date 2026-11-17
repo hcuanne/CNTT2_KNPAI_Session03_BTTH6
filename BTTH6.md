@@ -16,7 +16,6 @@ Phòng đào tạo cần sử dụng AI để chuẩn hóa thông tin sinh viên
 
 **C - Context:** Bạn là AI hỗ trợ phòng đào tạo chuẩn hóa dữ liệu sinh viên.
 
-**R - Role:** Đóng vai chuyên viên xử lý dữ liệu.
 
 **E - Examples:** 
 Nguyễn Văn An - an.nguyen@gmail.com - đang học
